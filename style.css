@@ -1,0 +1,118 @@
+
+.container{
+    text-align: center;
+}
+
+#myCarousel{
+    background-color:mistyrose;
+    height: 500px;
+}
+
+#myCarousel img{
+    height:500px;
+    margin-top: 100px;
+}
+
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: darksalmon;
+    font-size: 20px;
+}
+
+#header{
+    font-size: 30px;
+    color:rosybrown;
+    font-family: 'Cedarville Cursive', cursive;
+    margin-top: 20px;
+}
+
+.img2{
+    width:250px;
+    height: 250px;
+    margin-left: 10px;
+    margin-right:10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body{
+    text-align: center;
+}
+
+#apple{
+    width: 350px;
+}
+
+#chicken{
+    width: 320px;
+}
+
+#bread{
+    width: 200px;
+}
+
+#brc{
+    width: 340px;
+}
+
+#hch{
+    width: 350px;
+}
+
+#berry{
+    width: 210px;
+}
+
+#bday{
+    width: 300px;
+}
+
+#mocha{
+    width: 350px;
+}
+
+#lemon{
+    width: 200px;
+}
+
+#mozz{
+    width: 280px;
+}
+
+#pear{
+    width: 280px;
+}
+
+#tortilla{
+    width: 300px;
+}
+
+#cust{
+    width: 200px;
+}
+
+h2{
+font-family: 'Limelight', cursive;
+color: salmon;
+}
+
+#myNavbar1{
+    margin-bottom: 30px;
+    position: fixed;
+    margin-left: 1000px;
+    margin-bottom: 50px;
+    background-color: beige;
+}
+
+a{
+    font-size: 20px;
+    font-family: 'Limelight', cursive;
+    margin-left: 10px;
+    color: burlywood;
+}
+
+a:hover{
+    text-decoration:underline;
+    color: chocolate;
+}
